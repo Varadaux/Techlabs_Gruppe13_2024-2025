@@ -1,0 +1,14 @@
+Realschule	Geist	590	1
+Realschule	Geist	451	1
+Realschule	Herz-Jesu	142	1
+Realschule	Kinderhaus-West	444	1
+Realschule	Hiltrup-Mitte	561	1
+Realschule	Kreuz	613	1
+Realschule	Wolbeck	554	1
+			
+			
+			
+			
+			
+			
+			
