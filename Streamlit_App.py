@@ -25,7 +25,7 @@ st.title("Displaying Münster’s socioeconomic and educational situation geogra
 
 st.header("Münster's Socioeconomic Situation ")
 
-with open("SchulDaten_Heatmap.html", 'r') as file:
+with open("SozialDaten_Heatmap.html", 'r') as file:
     st.components.v1.html(file.read(), height=600)
 
 
