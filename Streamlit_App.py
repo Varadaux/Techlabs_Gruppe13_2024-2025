@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install streamlit
+I = 1
 
 
 # In[2]:
