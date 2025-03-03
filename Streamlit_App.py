@@ -11,7 +11,6 @@ I = 1
 
 
 import streamlit as st
-import folium
 from streamlit.components.v1 import iframe
 
 
