@@ -1,0 +1,46 @@
+	Name	Schulart	Adresse	Stadtteil	Breitengrad	Längengrad	Klasse 1 (gesamt)	Klasse 2 (gesamt)	Klasse 3 (gesamt)	Klasse 4 (gesamt)	Klasse 5 (gesamt)	Klasse 6 (gesamt)	Klasse 7 (gesamt)	Klasse 8 (gesamt)	Klasse 9 (gesamt)	Klasse 10 (gesamt)	Klasse 11 (gesamt)	Klasse 12 (gesamt)	Klasse 13 (gesamt)
+0	Aegidii-Ludgeri-Schule	Grundschule	Breite Gasse 3, 48143 Münster	Aegidii	51.95924475	7.624107486746451	33	30	32	22	0	0	0	0	0	0	0	0	0
+1	Martinischule	Grundschule	Stiftsherrenstraße 40, 48143 Münster	Martini	51.9658225	7.631379799224552	37	45	41	28	0	0	0	0	0	0	0	0	0
+2	Johannisschule	Grundschule	Vogel-von-Falkenstein-Straße 4, 48151 Münster	Josef	51.95250575	7.622215383681146	30	42	48	48	0	0	0	0	0	0	0	0	0
+3	Overbergschule	Grundschule	Margaretenstraße 6, 48145 Münster	Hansaplatz	51.956238549999995	7.644752314250903	39	38	37	36	0	0	0	0	0	0	0	0	0
+4	Bodelschwinghschule	Grundschule	Gutenbergstraße 14, 48145 Münster	Mauritz-West	51.96006265	7.645207713023179	46	56	50	51	0	0	0	0	0	0	0	0	0
+5	Kreuzschule	Grundschule	Kampstraße 15, 48147 Münster	Kreuz	51.969471850000005	7.623725470020581	53	32	47	49	0	0	0	0	0	0	0	0	0
+6	Martin-Luther-Schule	Grundschule	Coerdestraße 8, 48147 Münster	Kreuz	51.96922395	7.627840704038856	51	58	51	45	0	0	0	0	0	0	0	0	0
+7	Dietrich-Bonhoeffer-Schule	Grundschule	Bonhoefferstraße 50, 48151 Münster	Aaseestadt	51.94163015	7.605145209437712	55	47	40	51	0	0	0	0	0	0	0	0	0
+8	Matthias-Claudius-Schule	Grundschule	Gut Insel 36, 48151 Münster	Geist	51.93860585	7.61298881209431	60	71	44	52	0	0	0	0	0	0	0	0	0
+9	Hermannschule	Grundschule	Dahlweg 66, 48153 Münster	Schützenhof	51.944904050000005	7.626371171545667	34	38	23	34	0	0	0	0	0	0	0	0	0
+10	Gottfried-von-Cappenberg-Schule	Grundschule	Glatzer Weg 9, 48151 Münster	Düesberg	51.9331045	7.612316207538708	65	73	59	68	0	0	0	0	0	0	0	0	0
+11	Mauritzschule	Grundschule	Stiftsstraße 19, 48145 Münster	Mauritz-Mitte	51.96376715	7.650289550752131	51	54	44	46	0	0	0	0	0	0	0	0	0
+12	Pötterhoekschule	Grundschule	Pötterhoek 49, 48145 Münster	Mauritz-Mitte	51.97265204999999	7.653842116722971	56	51	50	43	0	0	0	0	0	0	0	0	0
+13	Thomas-Morus-Schule	Grundschule	Thomas-Morus-Weg 7, 48147 Münster	Rumphorst	51.97468825	7.644125496047033	93	81	80	67	0	0	0	0	0	0	0	0	0
+14	Dreifaltigkeitsschule	Grundschule	Wienburgstraße 52, 48147 Münster	Uppenberg	51.9828067	7.6217765	59	88	59	70	0	0	0	0	0	0	0	0	0
+15	Michaelschule	Grundschule	Appelbreistiege 40, 48149 Münster	Gievenbeck	51.96779325	7.581247009083935	68	59	55	59	0	0	0	0	0	0	0	0	0
+16	Mosaik-Schule	Grundschule	Dieckmannstraße 131, 48161 Münster	Gievenbeck	51.965217749999994	7.5669587223733625	66	78	75	73	0	0	0	0	0	0	0	0	0
+17	Wartburgschule	Grundschule	Toppheideweg 91, 48161 Münster	Gievenbeck	51.9743795	7.567391445481247	89	103	75	92	0	0	0	0	0	0	0	0	0
+18	Theresienschule	Grundschule	Sentruper Höhe 5, 48149 Münster	Sentrup	51.9553255	7.594873290090079	38	26	38	41	0	0	0	0	0	0	0	0	0
+19	Peter-Wust-Schule	Grundschule	Dingbängerweg 80, 48163 Münster	Mecklenbeck	51.932620549999996	7.580143024353202	77	92	83	56	0	0	0	0	0	0	0	0	0
+20	Ludgerusschule Albachten	Grundschule	Hohe Geist 8, 48163 Münster	Albachten	51.9227202	7.528324261355753	67	75	75	74	0	0	0	0	0	0	0	0	0
+21	Marienschule Roxel	Grundschule	Auf dem Dorn 17, 48161 Münster	Roxel	51.9551493	7.531322733080384	93	91	90	77	0	0	0	0	0	0	0	0	0
+22	Annette-von-Droste-Hülshoff-Schule Nienberge	Grundschule	Kirmstraße 1, 48161 Münster	Nienberge	51.99614235	7.5594802679942985	54	49	65	51	0	0	0	0	0	0	0	0	0
+23	Melanchthonschule	Grundschule	Königsberger Straße 91, 48157 Münster	Coerde	51.99323095	7.645804421953839	48	75	44	33	0	0	0	0	0	0	0	0	0
+24	Norbertschule	Grundschule	An der Meerwiese 7, 48157 Münster	Coerde	51.989158950000004	7.648910980987003	72	97	62	70	0	0	0	0	0	0	0	0	0
+25	Paul-Schneider-Schule	Grundschule	Pastorsesch 34, 48159 Münster	Kinderhaus-Ost	51.9982078	7.612453821307563	69	83	72	74	0	0	0	0	0	0	0	0	0
+26	Grundschule am Kinderbach	Grundschule	Von-Humboldt-Straße 14, 48159 Münster	Kinderhaus-West	51.99835155	7.604638020118084	46	59	55	41	0	0	0	0	0	0	0	0	0
+27	Grundschule Kinderhaus-West	Grundschule	Josef-Beckmann-Straße 33, 48159 Münster	Kinderhaus-West	51.99691815	7.593705277551625	56	80	51	56	0	0	0	0	0	0	0	0	0
+28	Grundschule Sprakel	Grundschule	In der Au 3, 48159 Münster	Sprakel	52.03774485	7.615500156199505	44	51	33	27	0	0	0	0	0	0	0	0	0
+29	Margaretenschule	Grundschule	Brentanoweg 18, 48155 Münster	Mauritz-Ost	51.95212345	7.674015156789823	52	57	56	71	0	0	0	0	0	0	0	0	0
+30	Pleisterschule	Grundschule	An der Konradkirche 7, 48155 Münster	Mauritz-Ost	51.96324975	7.677774215483531	33	24	38	26	0	0	0	0	0	0	0	0	0
+31	Astrid Lindgren-Schule Gelmer	Grundschule	Gelmerheide 3, 48157 Münster	Gelmer-Dyckburg	52.0297395	7.675133013988717	30	26	31	36	0	0	0	0	0	0	0	0	0
+32	Kardinal-von-Galen-Schule Handorf	Grundschule	Ludwig-Wolker-Straße 13, 48157 Münster	Handorf	51.98827445	7.700526836451342	52	47	54	45	0	0	0	0	0	0	0	0	0
+33	Matthias-Claudius-Schule Handorf	Grundschule	Drostestraße 7, 48157 Münster	Handorf	51.9901032	7.703648538461694	44	51	37	46	0	0	0	0	0	0	0	0	0
+34	Idaschule	Grundschule	Vörnste Esch 19, 48167 Münster	Gremmendorf-Ost	51.9323056	7.673866149953675	85	93	84	71	0	0	0	0	0	0	0	0	0
+35	Annette-von-Droste-Hülshoff-Schule Angelmodde	Grundschule	Höftestraße 4, 48167 Münster	Angelmodde	51.9213159	7.6807536116322055	44	50	48	35	0	0	0	0	0	0	0	0	0
+36	Eichendorffschule Angelmodde	Grundschule	Eichendorffstraße 36, 48167 Münster	Angelmodde	51.9147512	7.695004957462609	67	78	55	41	0	0	0	0	0	0	0	0	0
+37	Nikolaischule Wolbeck	Grundschule	Am Wigbold 11, 48167 Münster	Wolbeck	51.9153201	7.729627892884797	87	74	78	100	0	0	0	0	0	0	0	0	0
+38	Städt. Grundschule Wolbeck-Nord	Grundschule	Grenkuhlenweg 21, 48167 Münster	Wolbeck	51.9224785	7.7277875	49	55	52	0	0	0	0	0	0	0	0	0	0
+39	Marienschule Hiltrup	Grundschule	Loddenweg 12, 48165 Münster	Hiltrup-Ost	51.907630350000005	7.6658532443328555	55	56	55	42	0	0	0	0	0	0	0	0	0
+40	Clemensschule Hiltrup	Grundschule	Unckelstraße 19, 48165 Münster	Hiltrup-Mitte	51.9065353	7.646594849248558	44	30	33	28	0	0	0	0	0	0	0	0	0
+41	Paul-Gerhardt-Schule Hiltrup	Grundschule	Bodelschwinghstraße 22, 48165 Münster	Hiltrup-Mitte	51.9065796	7.645889742380626	58	50	51	56	0	0	0	0	0	0	0	0	0
+42	Ludgerusschule Hiltrup	Grundschule	An der Alten Kirche 161, 48165 Münster	Hiltrup-West	51.903663449999996	7.626606101187082	110	115	107	106	0	0	0	0	0	0	0	0	0
+43	Davertschule Amelsbüren	Grundschule	Zum Häpper 10b, 48163 Münster	Amelsbüren	51.88516195	7.606843391199048	73	59	40	75	0	0	0	0	0	0	0	0	0
+44	Grundschule Loevelingloh	Grundschule	Wiedaustraße 114, 48163 Münster	Amelsbüren	51.894243849999995	7.57817422018965	28	29	27	28	0	0	0	0	0	0	0	0	0
