@@ -41,3 +41,17 @@ st.header("Münster's Educational Situation ")
 with open("SchulDaten_Heatmap.html", 'r') as file:
     st.components.v1.html(file.read(), height=600)
 
+
+
+
+# In[7]:
+
+
+st.header("Exact Locations of Münster's Educational Facilities")
+
+
+# In[8]:
+
+
+with open("Bildudungseinrichtung_Karte.html", 'r') as file:
+    st.components.v1.html(file.read(), height=600)
